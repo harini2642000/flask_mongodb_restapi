@@ -1,0 +1,12 @@
+.form-control {
+	height: 40px;
+	box-shadow: none;
+	color: #969fa4;
+	align: center;
+}
+.form-control:focus {
+	border-color: #5cb85c;
+}
+.form-control, .btn {
+	border-radius: 3px;
+}
